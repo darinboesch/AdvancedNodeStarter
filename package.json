@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "jest": {
+    "testURL": "http://localhost:3000",
     "setupTestFrameworkScriptFile": "./tests/setup.js"
   },
   "scripts": {
